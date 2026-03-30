@@ -2,6 +2,7 @@
 # 🐄 DairyFlow Management System
 
 **Live Demo:** [DairyFlow App Login](https://dairyflow-mgmt.netlify.app/login)
+https://dairyflow-mgmt.netlify.app/login
 
 DairyFlow is a **modern web-based ERP system** designed specifically for **dairy collection centers and milk distribution businesses**. It provides a **single-screen command center** to streamline daily operations, reduce errors, and improve efficiency.
 
@@ -127,23 +128,6 @@ xxxxxxxxxxxxxx
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-# Fork the repo
-# Create a new branch
-git checkout -b feature-name
-
-# Commit your changes
-git commit -m "Add feature"
-
-# Push to your branch
-git push origin feature-name
-```
-
----
 
 ## 📄 License
 
