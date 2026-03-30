@@ -1,7 +1,7 @@
 # Dairy-Flow
 # 🐄 DairyFlow Management System
 
-**Live Demo:** [DairyFlow App Login](https://www.netlify.com/?utm_source=chatgpt.com)
+**Live Demo:** [DairyFlow App Login](https://dairyflow-mgmt.netlify.app/login)
 
 DairyFlow is a **modern web-based ERP system** designed specifically for **dairy collection centers and milk distribution businesses**. It provides a **single-screen command center** to streamline daily operations, reduce errors, and improve efficiency.
 
